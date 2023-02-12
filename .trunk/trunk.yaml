@@ -20,6 +20,7 @@ lint:
       paths:
         - .github/**
         - LICENSE.md
+        - CHANGELOG.md
 runtimes:
   enabled:
     - go@1.18.3
