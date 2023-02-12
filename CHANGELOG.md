@@ -8,10 +8,16 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
 
 <!-- markdownlint-disable-next-line -->
-<!-- ### Added -->
+
+### Added
+
+- feat: add go-cli
 
 <!-- markdownlint-disable-next-line -->
-<!-- ### Changed -->
+
+### Changed
+
+- docs(repo): fill template files
 
 <!-- markdownlint-disable-next-line -->
 <!-- ### Deprecated -->
@@ -26,4 +32,5 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 <!-- ### Security -->
 
 <!-- VERSION DIFFLINKS -->
-[Unreleased]: https://github.com/Serpentiel/go-cli/compare/v1.3.1...main
+
+[Unreleased]: https://github.com/Serpentiel/go-cli/compare/936b337...main
