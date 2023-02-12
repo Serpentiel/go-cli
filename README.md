@@ -2,36 +2,36 @@
 <div id="top"></div>
 
 <div align="center">
-  <a href="https://github.com/Serpentiel/template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Serpentiel/template.svg?style=for-the-badge" alt="Contributors" height="28">
+  <a href="https://github.com/Serpentiel/go-cli/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Serpentiel/go-cli.svg?style=for-the-badge" alt="Contributors" height="28">
   </a>
-  <a href="https://github.com/Serpentiel/template/network/members">
-    <img src="https://img.shields.io/github/forks/Serpentiel/template.svg?style=for-the-badge" alt="Forks" height="28">
+  <a href="https://github.com/Serpentiel/go-cli/network/members">
+    <img src="https://img.shields.io/github/forks/Serpentiel/go-cli.svg?style=for-the-badge" alt="Forks" height="28">
   </a>
-  <a href="https://github.com/Serpentiel/template/stargazers">
-    <img src="https://img.shields.io/github/stars/Serpentiel/template.svg?style=for-the-badge" alt="Stars" height="28">
+  <a href="https://github.com/Serpentiel/go-cli/stargazers">
+    <img src="https://img.shields.io/github/stars/Serpentiel/go-cli.svg?style=for-the-badge" alt="Stars" height="28">
   </a>
-  <a href="https://github.com/Serpentiel/template/issues">
-    <img src="https://img.shields.io/github/issues/Serpentiel/template.svg?style=for-the-badge" alt="Issues" height="28">
+  <a href="https://github.com/Serpentiel/go-cli/issues">
+    <img src="https://img.shields.io/github/issues/Serpentiel/go-cli.svg?style=for-the-badge" alt="Issues" height="28">
   </a>
-  <a href="https://github.com/Serpentiel/template/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/github/license/Serpentiel/template.svg?style=for-the-badge" alt="License" height="28">
+  <a href="https://github.com/Serpentiel/go-cli/blob/main/LICENSE.md">
+    <img src="https://img.shields.io/github/license/Serpentiel/go-cli.svg?style=for-the-badge" alt="License" height="28">
   </a>
   <br>
   <br>
-  <a href="https://github.com/Serpentiel/template">
-    <img src="https://github.com/Serpentiel/template/blob/repo-assets/README.md/logo.png" alt="Logo" width="192" height="256">
+  <a href="https://github.com/Serpentiel/go-cli">
+    <img src="https://github.com/Serpentiel/go-cli/blob/repo-assets/README.md/logo.png" alt="Logo" width="192" height="256">
   </a>
-  <h3>template</h3>
-  <p>A project template</p>
+  <h3>go-cli</h3>
+  <p>A project template for Go CLI apps</p>
   <br>
   <br>
   <p>
-    <a href="https://github.com/Serpentiel/template/issues/new?labels=question&template=01_question.md">Ask a Question</a>
+    <a href="https://github.com/Serpentiel/go-cli/issues/new?labels=question&template=01_question.md">Ask a Question</a>
     &bullet;
-    <a href="https://github.com/Serpentiel/template/issues/new?labels=bug&template=02_bug.md">Report a Bug</a>
+    <a href="https://github.com/Serpentiel/go-cli/issues/new?labels=bug&template=02_bug.md">Report a Bug</a>
     &bullet;
-    <a href="https://github.com/Serpentiel/template/issues/new?labels=enhancement&template=03_feature.md">Request a Feature</a>
+    <a href="https://github.com/Serpentiel/go-cli/issues/new?labels=enhancement&template=03_feature.md">Request a Feature</a>
   </p>
 </div>
 <details>
@@ -93,9 +93,9 @@ Contributions are what make the open source community such an amazing place to l
 contributions you make are greatly appreciated.
 
 If you would like to contribute, please make sure to take a look
-at [this guideline](https://github.com/Serpentiel/template/blob/main/CONTRIBUTING.md) beforehand.
+at [this guideline](https://github.com/Serpentiel/go-cli/blob/main/CONTRIBUTING.md) beforehand.
 
-Please see our [security policy](https://github.com/Serpentiel/template/blob/main/SECURITY.md) to report any possible
+Please see our [security policy](https://github.com/Serpentiel/go-cli/blob/main/SECURITY.md) to report any possible
 vulnerabilities or serious issues.
 
 <!-- markdownlint-disable -->
@@ -104,7 +104,7 @@ vulnerabilities or serious issues.
 
 ## License
 
-Distributed under the MIT License. See [`LICENSE.md`](https://github.com/Serpentiel/template/blob/main/LICENSE.md) for
+Distributed under the MIT License. See [`LICENSE.md`](https://github.com/Serpentiel/go-cli/blob/main/LICENSE.md) for
 more information.
 
 > **N.B.** This project explicitly does not requires its contributors to sign a _Contributor License Agreement_ nor does
