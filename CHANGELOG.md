@@ -11,6 +11,8 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Changed -->
 
+- docs(repo): update CONTRIBUTING.md
+
 <!-- ### Deprecated -->
 
 <!-- ### Removed -->
