@@ -4,7 +4,7 @@ package cmd
 import (
 	"os"
 
-	"github.com/Serpentiel/go-cli/internal/pkg/provide"
+	"github.com/Serpentiel/go-cli/internal/provide"
 	"github.com/spf13/cobra"
 	"go.uber.org/fx"
 )
