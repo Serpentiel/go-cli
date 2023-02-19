@@ -9,10 +9,11 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Added -->
 
-<!-- ### Changed -->
+### Changed
 
 - docs(repo): update CONTRIBUTING.md
 - refactor(internal): drop pkg layer
+- fix(viper): env variables
 
 <!-- ### Deprecated -->
 
