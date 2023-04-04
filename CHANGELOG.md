@@ -14,6 +14,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - docs(repo): update CONTRIBUTING.md
 - refactor(internal): drop pkg layer
 - fix(viper): env variables
+- ci(lint): golangci-lint via trunk
 
 <!-- ### Deprecated -->
 
