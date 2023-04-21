@@ -15,6 +15,8 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - refactor(internal): drop pkg layer
 - fix(viper): env variables
 - ci(lint): golangci-lint via trunk
+- ci(lint): go-version switch to go.mod
+- chore(ci): make if statements multiline
 
 <!-- ### Deprecated -->
 
