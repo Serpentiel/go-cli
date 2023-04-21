@@ -17,6 +17,7 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - ci(lint): golangci-lint via trunk
 - ci(lint): go-version switch to go.mod
 - chore(ci): make if statements multiline
+- chore(golangci-lint): drop forced version
 
 <!-- ### Deprecated -->
 
