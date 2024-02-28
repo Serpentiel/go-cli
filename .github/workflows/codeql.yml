@@ -1,10 +1,9 @@
-name: Lint
+name: CodeQL
 
 on:
   pull_request:
     branches:
       - main
-      - release-*
     types:
       - opened
       - synchronize
@@ -14,26 +13,18 @@ on:
   push:
     branches:
       - main
-      - release-*
 
 permissions:
+  actions: read
   contents: read
+  security-events: write
 
 jobs:
-  commitlint:
+  codeql:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      - uses: wagoid/commitlint-github-action@v5
-  trunk:
     if: >
       (github.event_name == 'pull_request' && !contains(github.event.pull_request.labels.*.name, 'skip workflows')) ||
       github.event_name == 'push'
-    runs-on: ubuntu-latest
-    permissions:
-      checks: write
     steps:
       - uses: actions/checkout@v4
         with:
@@ -41,4 +32,8 @@ jobs:
       - uses: actions/setup-go@v5
         with:
           go-version-file: go.mod
-      - uses: trunk-io/trunk-action@v1
+      - uses: github/codeql-action/init@v3
+        with:
+          languages: go
+      - uses: github/codeql-action/autobuild@v3
+      - uses: github/codeql-action/analyze@v3
