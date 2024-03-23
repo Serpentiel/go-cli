@@ -23,7 +23,9 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 <!-- ### Removed -->
 
-<!-- ### Fixed -->
+### Fixed
+
+- Prevent Changelog Enforcer from running on PRs created by trunk.io
 
 <!-- ### Security -->
 
